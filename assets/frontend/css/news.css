@@ -1,0 +1,12 @@
+.news-item {
+  padding: 50px 0;
+  border-bottom: 1px solid silver
+}
+
+.news-item-pubdate {
+  color: silver
+}
+.news-item-preview {
+  margin: auto;
+  display: block;
+}

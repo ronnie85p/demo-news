@@ -1,2 +1,2 @@
 <?php
-return '/Filesystem/core/model/schema';
+return '/Filesystem/assets/frontend/css';
