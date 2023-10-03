@@ -312,3 +312,7 @@
 [2023-10-03 18:40:03] (ERROR @ /var/www/html/core/components/pdotools/vendor/fenom/fenom/src/Fenom/Template.php(487) : eval()'d code : 30) PHP warning: Undefined array key "publishedby"
 [2023-10-03 18:45:47] (ERROR @ /var/www/html/core/components/pdotools/vendor/fenom/fenom/src/Fenom/Template.php(487) : eval()'d code : 28) PHP warning: Undefined array key "publishedon"
 [2023-10-03 18:45:47] (ERROR @ /var/www/html/core/components/pdotools/vendor/fenom/fenom/src/Fenom/Template.php(487) : eval()'d code : 30) PHP warning: Undefined array key "publishedby"
+[2023-10-03 23:37:57] (ERROR @ /var/www/html/core/components/pdotools/vendor/fenom/fenom/src/Fenom/Template.php(487) : eval()'d code : 28) PHP warning: Undefined array key "publishedon"
+[2023-10-03 23:37:57] (ERROR @ /var/www/html/core/components/pdotools/vendor/fenom/fenom/src/Fenom/Template.php(487) : eval()'d code : 30) PHP warning: Undefined array key "publishedby"
+[2023-10-03 23:39:59] (ERROR @ /var/www/html/core/components/pdotools/vendor/fenom/fenom/src/Fenom/Template.php(487) : eval()'d code : 28) PHP warning: Undefined array key "publishedon"
+[2023-10-03 23:39:59] (ERROR @ /var/www/html/core/components/pdotools/vendor/fenom/fenom/src/Fenom/Template.php(487) : eval()'d code : 30) PHP warning: Undefined array key "publishedby"
