@@ -1,2 +1,2 @@
 <?php
-return '/Filesystem/assets/frontend/css';
+return '/Filesystem/assets/frontend';
