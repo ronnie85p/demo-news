@@ -19,6 +19,7 @@ modext.js
 # /assets/
 
 # ignore various IDE project files and folders
+_build
 .idea/
 .buildpath
 .project
