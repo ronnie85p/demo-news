@@ -1,22 +1,22 @@
 
 # ignore all .htaccess
-.htaccess
+# .htaccess
 
 # ignore all IIS files
-web.config
+# web.config
 
 # ignore all config.core.php
-config.core.php
+# config.core.php
 
 # ignore all config.context.php
-config.context.php
+# config.context.php
 
 # ignore concatenated js
 modext.js
 
 # ignore common root paths for docs and assets
-/docs/
-/assets/
+# /docs/
+# /assets/
 
 # ignore various IDE project files and folders
 .idea/
@@ -52,7 +52,7 @@ _build/templates/default/sass/font-awesome
 # ignore composer files
 composer.phar
 #composer.json
-composer.lock
+# composer.lock
 
 # ignore composer vendor dir
 /vendor
