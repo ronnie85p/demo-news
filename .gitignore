@@ -1,5 +1,5 @@
 
-core/cache
+# core/cache
 
 # ignore all .htaccess
 # .htaccess
@@ -36,12 +36,12 @@ node_modules
 *.js.map
 
 # ignore composer files
-composer.phar
-#composer.json
+# composer.phar
+# composer.json
 # composer.lock
 
 # ignore composer vendor dir
-#/vendor
+# /vendor
 
 # ignore phpunit cache files
 .phpunit.result.cache
