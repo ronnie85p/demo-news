@@ -3596,3 +3596,4 @@
 172.19.0.2:80 172.18.0.1 - - [03/Oct/2023:18:40:03 +0000] "GET /assets/frontend/css/news.css HTTP/1.1" 200 470 "http://localhost:88/news/1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.967 YaBrowser/23.9.1.967 Yowser/2.5 Safari/537.36"
 172.19.0.2:80 172.18.0.1 - - [03/Oct/2023:18:40:03 +0000] "GET /assets/frontend/css/styles.css HTTP/1.1" 200 27056 "http://localhost:88/news/1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.967 YaBrowser/23.9.1.967 Yowser/2.5 Safari/537.36"
 172.19.0.2:80 172.18.0.1 - - [03/Oct/2023:18:40:03 +0000] "GET /assets/frontend/img/news/1.jpg HTTP/1.1" 200 770428 "http://localhost:88/news/1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.967 YaBrowser/23.9.1.967 Yowser/2.5 Safari/537.36"
+172.19.0.2:80 172.18.0.1 - - [03/Oct/2023:18:41:27 +0000] "-" 408 0 "-" "-"
