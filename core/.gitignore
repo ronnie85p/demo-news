@@ -1,5 +1,5 @@
 .htaccess
 /cache
 # /components/
-/vendor/
+/vendor
 /bootstrap.php
