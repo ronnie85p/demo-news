@@ -19,7 +19,7 @@
 .settings/
 nbproject/
 
-/docker/*/logs
+/docker/*/logs/
 
 # ignore php and txt files beginning with test in root directory
 /test*.php
