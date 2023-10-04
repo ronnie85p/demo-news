@@ -1,5 +1,7 @@
 Demo news
 
-$ composer install
-$ docker compose -f docker-compose.yml up -d --build
-migrate demo_news.sql
+<ul>
+    <li>$ composer install</li>
+    <li>$ docker compose -f docker-compose.yml up -d --build</li>
+    <li>migrate demo_news.sql</li>
+</ul>
