@@ -12,11 +12,14 @@
 
 # ignore various IDE project files and folders
 .idea/
+.vscode
 .buildpath
 .project
 .coverage/
 .settings/
 nbproject/
+
+/docker/*/logs
 
 # ignore php and txt files beginning with test in root directory
 /test*.php

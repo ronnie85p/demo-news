@@ -1,4 +1,0 @@
-AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
-[Tue Oct 03 12:11:30.579662 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.57 (Debian) PHP/8.1.24 configured -- resuming normal operations
-[Tue Oct 03 12:11:30.579822 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
-[Tue Oct 03 13:19:56.787134 2023] [rewrite:error] [pid 50] [client 172.18.0.1:32990] AH10411: Rewritten query string contains control characters or spaces
